@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.luv.amazon._012TestCase_PaymentPage"/>
+      <class name="com.luv.amazon._015TestCase_CartPage_WoutLogin"/>
+      <class name="com.luv.amazon._009TestCase_AddCart"/>
+      <class name="com.luv.amazon._005TestCase_SearchProduct"/>
+      <class name="com.luv.amazon._002TestCaseLoginAmazon"/>
+    </classes>
+  </test> 
+</suite> 
